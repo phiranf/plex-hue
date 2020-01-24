@@ -1,6 +1,3 @@
-# Color theft:      https://github.com/fengsp/color-thief-py
-    # Color theft example: https://github.com/philosowaffle/plex-lifx-webhook/blob/master/plexlifx.py#L245
-# Phue:             https://github.com/studioimaginaire/phue
 import json
 
 from phue import Bridge
